@@ -1,0 +1,23 @@
+body {
+    background-color: #d8f0f2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+
+.circular{
+    border-radius: 100%;
+}
+.insta{
+    height: 40px;
+    width: 40px;
+}
+h2{
+    color: purple;
+}
